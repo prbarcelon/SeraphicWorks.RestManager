@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeraphicWorks.RestManager", "SeraphicWorks.RestManager\SeraphicWorks.RestManager.csproj", "{7DE1D201-8540-4769-9240-1D8E1256B004}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeraphicWorks.RestManager.Test", "SeraphicWorks.RestManager.Test\SeraphicWorks.RestManager.Test.csproj", "{686AAF3A-05B4-4E5F-8ABE-1A347BA0E531}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7DE1D201-8540-4769-9240-1D8E1256B004}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DE1D201-8540-4769-9240-1D8E1256B004}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DE1D201-8540-4769-9240-1D8E1256B004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686AAF3A-05B4-4E5F-8ABE-1A347BA0E531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686AAF3A-05B4-4E5F-8ABE-1A347BA0E531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686AAF3A-05B4-4E5F-8ABE-1A347BA0E531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686AAF3A-05B4-4E5F-8ABE-1A347BA0E531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
